@@ -1,0 +1,2 @@
+class Assemblage < ApplicationRecord
+end
